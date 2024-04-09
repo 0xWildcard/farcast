@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\api",
+    "\\app\\api\\[[...routes]]",
+    "\\public",
+    "\\public\\assets"
+  ],
+  "SelectedNode": "\\app\\api\\[[...routes]]\\route.tsx",
+  "PreviewInSolutionExplorer": false
+}
